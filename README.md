@@ -6,6 +6,7 @@ A second year university project using an Arduino board to develop a portable mu
 - Arduino
 
 ### Libraries 
+- Elegoo SD card library
 - Seeed_BME280 (BME280)
 - DS3231 (Clock module)
 - Elegoo_GFX (LCD graphics)
